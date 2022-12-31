@@ -5,6 +5,7 @@ Welcome to Mamaput Kitchen
 Amala
 Jollof Rice
 Ogbono Soup
+
 Rice
 Beans
 Spaghetti
@@ -12,3 +13,8 @@ Spaghetti
 Thank you
 
 Done my changes
+
+Thank you
+
+Final Copy
+
